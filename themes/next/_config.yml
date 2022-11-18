@@ -122,6 +122,7 @@ menu:
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
+  Tool: /tool/ || wrench
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
